@@ -1,0 +1,9 @@
+{
+  "id": "2biimjoaC3Z8NxjtDLzyGZgcomB",
+  "type": "Page",
+  "title": "Welcome",
+  "alinea": {
+    "index": "a0",
+    "seeded": "welcome.json"
+  }
+}
